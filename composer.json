@@ -4,6 +4,7 @@
     "keywords": ["bitcoin", "blockchain"],
     "homepage": "https://github.com/blockchain/api-v1-client-php",
     "license": "MIT",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Blockchain\\": "src/"
